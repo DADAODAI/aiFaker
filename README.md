@@ -3,6 +3,11 @@
 生成 GIF 和 PNG 表情包，假装 AI 经过深度思考后给出了神回复。  
 本项目的主要目的是**娱乐大众**，拉近 AI 与人们的距离。哈哈
 
+<img width="2698" height="1346" alt="image" src="https://github.com/user-attachments/assets/48f7ca2f-c45a-4029-8776-c695a2343262" />
+
+![aifaker (2)](https://github.com/user-attachments/assets/c457a717-f32f-4fce-b39c-97026b4d9f18)
+
+
 ## 功能
 
 - 输入任意问题和回答，一键生成"AI 在思考"的对话截图
