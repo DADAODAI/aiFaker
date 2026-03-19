@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/gifenc.d.ts","./src/main.tsx","./src/components/preview.tsx","./src/lib/exporter.ts","./src/lib/presets.ts","./src/lib/renderer.ts","./src/lib/scene.ts","./src/lib/types.ts"],"version":"5.9.3"}
